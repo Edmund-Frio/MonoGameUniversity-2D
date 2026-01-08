@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonSlime", "DungeonSlime.csproj", "{ED6B5FFA-0E1C-4BCE-D08B-69CC2DE9576F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonSlime", "DungeonSlime/DungeonSlime.csproj", "{ED6B5FFA-0E1C-4BCE-D08B-69CC2DE9576F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +19,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0758E833-7E63-45A6-92E1-DAE59ADBFF9F}
+		SolutionGuid = {BB6E9087-E765-4418-9577-6B182332E936}
 	EndGlobalSection
 EndGlobal
